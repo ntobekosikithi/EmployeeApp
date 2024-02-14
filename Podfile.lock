@@ -1,0 +1,32 @@
+PODS:
+  - Cuckoo (1.10.4):
+    - Cuckoo/Swift (= 1.10.4)
+  - Cuckoo/Swift (1.10.4)
+  - SkyFloatingLabelTextField (4.0.0)
+  - SwiftMessages (10.0.0):
+    - SwiftMessages/App (= 10.0.0)
+  - SwiftMessages/App (10.0.0)
+  - Swinject (2.8.3)
+
+DEPENDENCIES:
+  - Cuckoo (= 1.10.4)
+  - SkyFloatingLabelTextField (= 4.0.0)
+  - SwiftMessages (= 10.0.0)
+  - Swinject (= 2.8.3)
+
+SPEC REPOS:
+  trunk:
+    - Cuckoo
+    - SkyFloatingLabelTextField
+    - SwiftMessages
+    - Swinject
+
+SPEC CHECKSUMS:
+  Cuckoo: 20b8aed94022e0e43e90f7c9e4fb0c86f0926a01
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+  SwiftMessages: d3540f0f981dfbac25bd2ae9a662effa48f76f92
+  Swinject: 893c9a543000ac2f10ee4cbaf0933c6992c935d5
+
+PODFILE CHECKSUM: abe2892ce3e8df9e064ef98c14f8c0061fcd8232
+
+COCOAPODS: 1.14.3

@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  EmployeeApp
+
+  Created by ns90840 on 2024/02/11.
+  
+*/
+
+//screen titles
+"employee.details.screen.title" = "Employees";
+"list.of.employees.screen.title" = "List Of Employees";
+"additional.info.screen.title" = "Additional Info";
+"review.screen.title" = "Review";
+"choose.preferred.color.screen.title" = "Select Preferred Color";
+
+//Common
+"common.next.button.title" = "next";
+"common.successful.view.title" = "Successful";
+"common.done.button.title" = "Done";
+"common.login.button.title" = "Login";
+
+//Error handling
+"enter.valid.email.address.message" = "Please enter a valid email";
+"email.required.message" = "Email is required";
+"password.required.message" = "Password is required";
+"password.too.short.message" = "Password is too short";
+"date.of.birth.required.message" = "Date of birth is required";
+"enter.valid.date.message" = "Please enter a valid date";
+"place.of.birth.required.message" = "Place of birth is required";
+"enter.valid.residential.address" = "Please enter a valid address";
+"failed.to.save.token" = "Failed to save the user details. Please try again late.";
+
+
+//Custom message view
+"update.employee.successful.view.description" = "The employee details were successfully updated. Use the Done button to go back to the Employee Details screen.";
